@@ -1,0 +1,12 @@
+[submodule "day-03/day-03/flask"]
+	path = day-03/day-03/flask
+	url = https://github.com/github/codespaces-flask
+[submodule "day-03/day-04/flask"]
+	path = day-03/day-04/flask
+	url = https://github.com/github/codespaces-flask
+[submodule "day-04/flask"]
+	path = day-04/flask
+	url = https://github.com/github/codespaces-flask
+[submodule "day-03/flask"]
+	path = day-03/flask
+	url = https://github.com/github/codespaces-flask
